@@ -1,0 +1,11 @@
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\bin\Debug\KPM.exe
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\bin\Debug\KPM.pdb
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\obj\x86\Debug\KeyPassSystray.csprojResolveAssemblyReference.cache
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\obj\x86\Debug\KeyPassSystray.editorForm.resources
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\obj\x86\Debug\KeyPassSystray.SysTrayAccess.resources
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\obj\x86\Debug\KeyPassSystray.Properties.Resources.resources
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\obj\x86\Debug\KeyPassSystray.csproj.GenerateResource.Cache
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\obj\x86\Debug\KPM.exe
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\obj\x86\Debug\KPM.pdb
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\bin\Debug\KeePass.XmlSerializers.dll
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\bin\Debug\KeePass.exe

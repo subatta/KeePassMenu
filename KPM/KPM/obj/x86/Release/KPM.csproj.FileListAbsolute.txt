@@ -1,0 +1,8 @@
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\bin\Release\KPM.exe
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\bin\Release\KPM.pdb
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\bin\Release\KeePass.XmlSerializers.dll
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\obj\x86\Release\KPM.csprojResolveAssemblyReference.cache
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\obj\x86\Release\KPM.Properties.Resources.resources
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\obj\x86\Release\KPM.csproj.GenerateResource.Cache
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\obj\x86\Release\KPM.exe
+E:\Programming\CodeLib\KeePassMenu\KPM\KPM\obj\x86\Release\KPM.pdb
